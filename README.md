@@ -1,9 +1,9 @@
 # Skin Cancer Detection Android App(Image Processing)
 Here are the codes,Datasets and the android app required to create the Skin Cancer Detection App.
 
-# Datasets
+# Datasets:
+  Data.md
+# Python Code for model:
 
-# Python Code for model
-
-# Android App
+# Android App:
 
