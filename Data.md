@@ -12,4 +12,4 @@ The dataset contains images of 7 types of Skin Cancers: \
   4.Dermatofibroma (df) \
   5.Melanoma (mel) \
   6.Melanocytic nevi (nv) \
-  7.Vascular lesions (angiomas, angiokeratomas, pyogenic granulomas and hemorrhage, vasc) \
+  7.Vascular lesions (angiomas, angiokeratomas, pyogenic granulomas and hemorrhage, vasc) 
