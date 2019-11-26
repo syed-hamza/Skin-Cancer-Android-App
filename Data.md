@@ -13,3 +13,11 @@ The dataset contains images of 7 types of Skin Cancers: \
   5.Melanoma (mel) \
   6.Melanocytic nevi (nv) \
   7.Vascular lesions (angiomas, angiokeratomas, pyogenic granulomas and hemorrhage, vasc) 
+
+## Arrangement
+**Arrange the dataset by following the steps given:** \
+1)Create the project file named "Skin Cancer" \
+2)Create 3 directories "Input",  "src" and "outputN" \
+3)Paste the skin cancer dataset to the input file and unzip it,leave the no disease dataset in the downloads folder itself and rename it as "nod". \
+4)In the datatree directory, create a folder named "nod" in "train", "test" and "validation" \
+5)The code goes in the src folder while the modelsgo in the outputN folder.\
