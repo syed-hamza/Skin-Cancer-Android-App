@@ -3,7 +3,7 @@ This is the Skin Cancer dataset we have imported from kaggle to train our model.
 https://www.kaggle.com/tsaideepak/ham10000-data-tree \
 \
 In addition we have added a 340 images of No Disease situations.
-https://drive.google.com/file/d/1QvPj4EEEwqQG7ohO3Ryk4NEquetQeUHI/view?usp=sharing \
+https://drive.google.com/file/d/1QvPj4EEEwqQG7ohO3Ryk4NEquetQeUHI/view?usp=sharing 
 ## Description:
 The dataset contains images of 7 types of Skin Cancers: \
   1.Actinic keratoses and intraepithelial carcinoma / Bowen's disease (akiec) \
