@@ -8,8 +8,8 @@
 5) You will get a "Gradle Sync" popup, the first time you open the project, asking about using gradle wrapper. Click "OK".
 6) Test run the app.
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![model.tflite   labels.txt](https://codelabs.developers.google.com/codelabs/recognize-flowers-with-tensorflow-on-android/img/1c8cdc983073d67b.png)
+
 
 ### converting the app to run your model:
 1) 
