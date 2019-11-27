@@ -18,5 +18,6 @@ The given code uses inception_v3 at https://keras.io/applications/#inceptionv3.I
 From this we can conclude that eventhough nasnet fluctuates less than inception inception provides a better accuracy,hance can be used in the app.
 
 ## Regards
-The following project took me more than a month to make. I hope it is helpful to everyone reading this:).
+I am a student in highschool and this is my first project using Deep Learning.
+The following project took me weekends for more than a month. I hope it is helpful to everyone reading this:).
 Suggetions are welcome.
