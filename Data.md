@@ -18,6 +18,7 @@ The dataset contains images of 7 types of Skin Cancers: \
 **Arrange the dataset by following the steps given:** 
 1) Create the project file named "SkinCancer" .
 2) Create 3 directories named "input", "src" and "outputN".
-3) Paste the skin cancer dataset to the input file and unzip it,leave the no disease dataset in the downloads folder itself and    rename it as "nod". 
-4) In the datatree directory, create a folder named "nod" in "train", "test" and "validation" directories. 
-5) The code goes in the src folder while the modelsgo in the outputN folder.
+3) Transfer both the dataset to the input directory and unzip them.
+4) Rename the no disease directory as "nod"
+5) In the datatree folder created after unzipping the disease dataset, create a dataset named "nod" in the "train", "test" and    "validation" folders. 
+6) Now you are ready to run the code in src.
