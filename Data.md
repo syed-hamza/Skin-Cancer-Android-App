@@ -22,3 +22,5 @@ The dataset contains images of 7 types of Skin Cancers: \
 4) Rename the no disease directory as "nod"
 5) In the datatree folder created after unzipping the disease dataset, create a dataset named "nod" in the "train", "test" and    "validation" folders. 
 6) Now you are ready to run the code in src.
+
+### Check on input.md for reference.
