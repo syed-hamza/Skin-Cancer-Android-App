@@ -10,6 +10,7 @@
       * bkl
       * df
       * mel
+      * nod
       * nv
       * vasc
   -validation:
@@ -19,6 +20,7 @@
       * bkl
       * df
       * mel
+      * nod
       * nv
       * vasc
   -test:
@@ -27,5 +29,6 @@
     * bkl
     * df
     * mel
+    * nod
     * nv
     * vasc    
