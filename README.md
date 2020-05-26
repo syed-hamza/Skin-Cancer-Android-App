@@ -3,7 +3,7 @@ Here are the Codes, Datasets and the Android App required to create the Skin Can
 
 ## Process
 The dataset is orignally available at https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T .
-The given code uses inception_v3 at https://keras.io/applications/#inceptionv3.Inception model gave me a way better result compared to nasnetmobile and training the model was comparitively quick.
+The given code uses inception_v3 at https://keras.io/applications/#inceptionv3.Inception model gave me a slightly better result than nasnetmobile and training the model was comparitively quick.
 
 ### Inception(Validation_Accuracy):
 ![inception](images/inceptionModelAcc.png)
@@ -15,9 +15,9 @@ The given code uses inception_v3 at https://keras.io/applications/#inceptionv3.I
 
 **validation accuracy:84.72%**
 
-From this we can conclude that eventhough nasnet fluctuates less than inception inception provides a better accuracy,hance can be used in the app.
+From this we can conclude that eventhough nasnet fluctuates less than inception inception provides a better accuracy,hence is better suited for the app.
 
 ## Regards
 I am a student in highschool and this is my first project using Deep Learning.
-The following project took me weekends for more than a month. I hope it is helpful to everyone reading this:).
-Suggetions are welcome.
+The following project took me several weekends along 2 months. I hope it is helpful to everyone reading this.
+All suggetions are welcome.
