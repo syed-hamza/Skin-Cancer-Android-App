@@ -2,7 +2,7 @@
 This is the Skin Cancer dataset we have imported from kaggle to train our model. \
 https://www.kaggle.com/tsaideepak/ham10000-data-tree \
 \
-In addition we have added a 340 images of No Disease situations.
+In addition we have added a 340 images of Healthy skin. \
 https://drive.google.com/file/d/1QvPj4EEEwqQG7ohO3Ryk4NEquetQeUHI/view?usp=sharing 
 ## Description:
 The dataset contains images of 7 types of Skin Cancers: \
@@ -23,4 +23,4 @@ The dataset contains images of 7 types of Skin Cancers: \
 5) In the datatree folder created after unzipping the disease dataset, create a dataset named "nod" in the "train", "test" and    "validation" folders. 
 6) Now you are ready to run the code in src.
 
-### Check on input.md for reference.
+### Check input.md for reference on distributing the data.
