@@ -9,6 +9,10 @@ follow the steps given on https://github.com/syed-hamza/Skin-Cancer-Android-App/
 The data should be arranged in the following struture. \
 https://github.com/syed-hamza/Skin-Cancer-Android-App/blob/master/input.md
 
+## Code
+1) Inception-V3 - https://github.com/syed-hamza/Skin-Cancer-Android-App/blob/master/src/SkinCancer_inceptionModel.ipynb
+2) nasnet - https://github.com/syed-hamza/Skin-Cancer-Android-App/blob/master/src/SkinCancer_nasnetmobile.ipynb
+
 ## Inference
 The given code uses inception_v3 at https://keras.io/applications/#inceptionv3.Inception model gave me a slightly better result than nasnetmobile and training the model was comparitively quick.
 
