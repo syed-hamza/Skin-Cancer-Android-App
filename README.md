@@ -1,8 +1,15 @@
 # Skin Cancer Detection Android App(Image Processing)
 Here are the Codes, Datasets and the Android App required to create the Skin Cancer Detection App.
 
-## Process
+## Data
 The dataset is orignally available at https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T .
+follow the steps given on https://github.com/syed-hamza/Skin-Cancer-Android-App/blob/master/Data.md for dataset prepartion.
+
+## Structure
+The data should be arranged in the following struture. \
+https://github.com/syed-hamza/Skin-Cancer-Android-App/blob/master/input.md
+
+## Inference
 The given code uses inception_v3 at https://keras.io/applications/#inceptionv3.Inception model gave me a slightly better result than nasnetmobile and training the model was comparitively quick.
 
 ### Inception(Validation_Accuracy):
